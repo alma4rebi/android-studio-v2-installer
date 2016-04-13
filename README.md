@@ -1,24 +1,25 @@
 # android-studio-v2-installer
-Android Studio -v2 installer on Ubuntu/linuxMint...
 
-Installing Ubuntu Make
+# How To Install Android Studio -v2 on Ubuntu/linuxMint...
 
-If you are on latest development Ubuntu version, first, add the Ubuntu Make ppa:
+# Installing Ubuntu Make
 
- $ sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
- $ sudo apt-get update
- 
-Then, installing Ubuntu Make:
+# If you are on latest development Ubuntu version, first, add the Ubuntu Make ppa:
 
- $ sudo apt-get install ubuntu-make
+   $ sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+   $ sudo apt-get update
  
- $ umake android
+# Then, installing Ubuntu Make:
+
+   $ sudo apt-get install ubuntu-make
  
- $ umake android --accept-license
+   $ umake android
+ 
+   $ umake android --accept-license
  
  
- Next And Next ;) 
-Good luck
+# Next And Next ;) 
+# Good luck
 
 
  
