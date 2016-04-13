@@ -14,4 +14,12 @@ Then, installing Ubuntu Make:
  
  $ umake android
  
+ $ umake android --accept-license
+ 
+ 
+ Next And Next ;) 
+Good luck
+
+
+ 
  
