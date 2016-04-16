@@ -7,6 +7,7 @@
 # If you are on latest development Ubuntu version, first, add the Ubuntu Make ppa:
 
    $ sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+   
    $ sudo apt-get update
  
 # Then, installing Ubuntu Make:
